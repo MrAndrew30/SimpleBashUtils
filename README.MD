@@ -10,4 +10,5 @@ build: make all
 
 Примеры запуска:
 ./s21_cat "filename"
+
 ./s21_grep "substring" "filename"
